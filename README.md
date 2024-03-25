@@ -1,5 +1,5 @@
 # About The Project
-This project is a "taker" of meta data from images in C#, with the ability to display and modify them
+This project is a "taker" of metadata from images in C#, with the ability to display and modify them. In this example, I'm using Avalonia UI WITHOUT the MVVM pattern, because this application is so simple that it doesn't even need it. I was interested in trying to extract metadata and perform further operations on it.
 
 ![image](https://github.com/Vimer5410/Metadata-Extractor/assets/94566326/4168273e-ea98-494b-809b-6d35a1a4fa68)
 
